@@ -34,7 +34,7 @@ Day la bai viet dau tien
 			</tr>
 		</table>
 	</form>
-	<p><strong>Vui lòng nhấp vào link sau: <a href="seeme.html"></a> Warning is here</a></strong></p> 
+	<p><strong>Vui lòng nhấp vào link sau: <a href="seeme.html"> Warning is here</a></strong></p> 
 
 <img src="https://media.laodong.vn/Storage/NewsPortal/2019/7/5/742726/604134.jpg" alt="Siêu xe" width="500" height="200">
 </body>	     
