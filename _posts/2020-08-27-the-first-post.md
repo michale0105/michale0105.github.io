@@ -4,6 +4,7 @@ layout: default
 ---
 
 Day la bai viet dau tien
+<body>
 <h1 style="color: #f00">Form Đăng Ký</h1>
 	<form method="POST">
 		<table border="0">
@@ -34,6 +35,6 @@ Day la bai viet dau tien
 		</table>
 	</form>
 	<p><strong>Vui lòng nhấp vào link sau: <a href="hihihaha.html"> Warning is here</a></strong></p> 
-	
+
 <img src="https://media.laodong.vn/Storage/NewsPortal/2019/7/5/742726/604134.jpg" alt="Siêu xe" width="500" height="200">
-     
+</body>	     
